@@ -3,6 +3,7 @@
 # "User Account Provisioning" in Laravel + SSO con SimpleSAMLphp
 
 Talk presentato al [**LaravelDay**](https://2022.laravelday.it/) del 17/11/2022 a Verona.
+
 Autore: Carlo Tafuro
 
 ## Introduzione
