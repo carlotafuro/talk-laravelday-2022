@@ -3,6 +3,7 @@
 # "User Account Provisioning" in Laravel + SSO con SimpleSAMLphp
 
 Talk presentato al [**LaravelDay**](https://2022.laravelday.it/) del 17/11/2022 a Verona.
+Autore: Carlo Tafuro
 
 ## Introduzione
 Obiettivo di questo repository è di illustrare passo passo la realizzazione di un sistema di autenticazione SSO che utilizzi SimpleSAMLphp come IdP (identity provider) e Laravel come backend di dati utente per l'IdP.
